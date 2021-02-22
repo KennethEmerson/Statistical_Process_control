@@ -8,4 +8,6 @@ To use the application, first start the sensor simulator in the terminal with th
 
 If the webpage is opened before the sensor simulator is running or when the WebSocket connection is lost, the webpage will show an error message with the option to reload the page. By doing so the webpage will try to (re)establish the connection.
 
+In the top part of the webpage, some parameters are available to alter the sensor simulator settings.
+
 ![Screenshot of webpage](https://github.com/KennethEmerson/Statistical_Process_control/blob/main/Screenshot.png)
