@@ -7,3 +7,5 @@ The repo consists of two parts. The first part is a sensor simulator, written in
 To use the application, first start the sensor simulator in the terminal with the command: “node -r esm sensorsimulator.js”. After the sensor simulator is started, you can open the webpage, which will automatically connect to the sensor simulator.
 
 If the webpage is opened before the sensor simulator is running or when the WebSocket connection is lost, the webpage will show an error message with the option to reload the page. By doing so the webpage will try to (re)establish the connection.
+
+!["screenshot of webpage"]("screenshot.png")
